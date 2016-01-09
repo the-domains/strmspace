@@ -1,0 +1,28 @@
+name: strmspace
+favicon: null
+layout_spectrum: 0.5430487440899014
+typography_spectrum: 0.24937541247345507
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9696386358700693
+  lightness: 0.21005806047469378
+  saturation: 0.5595201787073165
+  rhythmicContrast: 0.9715886497870088
+purpose: []
